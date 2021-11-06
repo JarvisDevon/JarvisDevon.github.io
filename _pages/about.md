@@ -23,7 +23,7 @@ My non-academic interests revolve around music (despite a distinct lack of rhyth
 *add cv*
 
 ## Favourite Textbooks
-{% include gallery id="gallery" layout="half" caption="My three favourite textbooks." %}
+{% include gallery id="gallery" layout="half" caption="My three favourite textbooks." class="full" %}
 
 ## Favourite Books
 <img src="../assets/images/aurelius.jpeg" alt="drawing" height="10"/> <img src="../assets/images/crocker.jpeg" alt="drawing" height="10"/> <img src="../assets/images/kahneman.jpeg" alt="drawing" height="10"/> 
