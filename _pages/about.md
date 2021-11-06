@@ -10,8 +10,8 @@ gallery:
     image_path: /assets/images/murphy.jpg
     alt: "Machine Learning - Murphy"
     title: "Machine Learning - Murphy"
-  - url: /assets/images/deisenroth.jpeg"
-    image_path: /assets/images/deisenroth.jpeg"
+  - url: /assets/images/murphy.jpg
+    image_path: /assets/images/murphy.jpg
     alt: "Mathematics for Machine Learning - Deisenroth"
     title: "Mathematics for Machine Learning - Deisenroth"
 ---
