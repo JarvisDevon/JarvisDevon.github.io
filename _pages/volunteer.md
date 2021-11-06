@@ -3,11 +3,11 @@ permalink: /volunteer/
 title: "Volunteer Work"
 ---
 
-# Volunteer Positions
+## Volunteer Positions
 * Research Lead at [1Day Africa](https://1dayafrica.org/about-1day-africa "1Day Africa"), 2021
 * Volunteer Organiser at [1Day Sooner](https://www.1daysooner.org/team "1Day Sooner"), 2020-2021
 
-# Opinion Editorials
+## Opinion Editorials
 * [African countries need to be involved in Covid-19 human challenge vaccine trials](https://www.dailymaverick.co.za/opinionista/2020-12-16-african-countries-need-to-be-involved-in-covid-19-human-challenge-vaccine-trials/ "Op-Ed")
 
 # Talks and Panels
