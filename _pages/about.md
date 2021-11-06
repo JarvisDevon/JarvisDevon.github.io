@@ -7,8 +7,6 @@ I obtained my undergraduate degree in Computer Science and Economics, as welll a
 
 My non-academic interests revolve around music (despite a distinct lack of rhythm), movies, sports and cat pictures.
 
-*add cv*
-
 ## Favourite Textbooks
 <figure class="third">
   <a href="{{ site.baseurl }}/assets/images/jaynes.jpeg"><img src="{{ site.baseurl }}/assets/images/jaynes.jpeg"></a>
