@@ -3,7 +3,7 @@ permalink: /volunteer/
 title: "Volunteer Work"
 ---
 
-# Volunteer Work
+# Volunteer Positions
 * Research Lead at [1Day Africa](https://1dayafrica.org/about-1day-africa "1Day Africa"), 2021
 * Volunteer Organiser at [1Day Sooner](https://www.1daysooner.org/team "1Day Sooner"), 2020-2021
 
