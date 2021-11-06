@@ -46,7 +46,7 @@ For my Masters work I looked to create selective plasticity regularizers which w
 * 1Day Africa: [Mentorship Campaign Launch](https://www.youtube.com/watch?v=8W_T7bqvkBM "Mentorship")
 
 # Favourite Textbooks
-<img src="../assets/images/jaynes.jpeg" alt="drawing" height="265"/> <img src="../assets/images/murphy.jpg" alt="drawing" height="265"/> <img src="../assets/images/deisenroth.jpeg" alt="drawing" height="265"/>
+<img src="../assets/images/jaynes.jpeg" alt="drawing" height="100"/> <img src="../assets/images/murphy.jpg" alt="drawing" height="100"/> <img src="../assets/images/deisenroth.jpeg" alt="drawing" height="100"/>
 
 # Favourite Books
-<img src="../assets/images/aurelius.jpeg" alt="drawing" height="300"/> <img src="../assets/images/crocker.jpeg" alt="drawing" height="300"/> <img src="../assets/images/kahneman.jpeg" alt="drawing" height="300"/> 
+<img src="../assets/images/aurelius.jpeg" alt="drawing" height="100"/> <img src="../assets/images/crocker.jpeg" alt="drawing" height="100"/> <img src="../assets/images/kahneman.jpeg" alt="drawing" height="100"/> 
