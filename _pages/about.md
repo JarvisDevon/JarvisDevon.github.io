@@ -18,5 +18,9 @@ My non-academic interests revolve around music (despite a distinct lack of rhyth
 </figure>
 
 ## Favourite Books
-<img src="../assets/images/aurelius.jpeg" height="10"/> <img src="../assets/images/crocker.jpeg" height="10"/> <img src="../assets/images/kahneman.jpeg" height="10"/> 
-![](../assets/images/aurelius.jpeg =x250)
+<figure class="third">
+  <a href="{{ site.baseurl }}/assets/images/aurelius.jpeg"><img src="{{ site.baseurl }}/assets/images/aurelius.jpeg"></a>
+  <a href="{{ site.baseurl }}/assets/images/crocker.jpeg"><img src="{{ site.baseurl }}/assets/images/crocker.jpeg"></a>
+  <a href="{{ site.baseurl }}/assets/images/kahneman.jpeg"><img src="{{ site.baseurl }}/assets/images/kahneman.jpeg"></a>
+  <figcaption>My three favourite textbooks.</figcaption>
+</figure>
