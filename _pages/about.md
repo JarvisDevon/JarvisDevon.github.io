@@ -10,8 +10,8 @@ gallery:
     image_path: /assets/images/murphy.jpg
     alt: "Machine Learning - Murphy"
     title: "Machine Learning - Murphy"
-  - url: /assets/images/deisenroth.jpg"
-    image_path: /assets/images/deisenroth.jpg"
+  - url: /assets/images/deisenroth.jpeg"
+    image_path: /assets/images/deisenroth.jpeg"
     alt: "Mathematics for Machine Learning - Deisenroth"
     title: "Mathematics for Machine Learning - Deisenroth"
 ---
@@ -23,7 +23,8 @@ My non-academic interests revolve around music (despite a distinct lack of rhyth
 *add cv*
 
 ## Favourite Textbooks
-{% include gallery id="gallery" layout="half" caption="My three favourite textbooks." class="full" %}
+{% include gallery id="gallery" layout="half" caption="My three favourite textbooks."%}
 
 ## Favourite Books
 <img src="../assets/images/aurelius.jpeg" height="10"/> <img src="../assets/images/crocker.jpeg" height="10"/> <img src="../assets/images/kahneman.jpeg" height="10"/> 
+![](../assets/images/aurelius.jpeg =x250)

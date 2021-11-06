@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Personal website for Devon Jarvis.
 twitter_username: username
 github_username: JarvisDevon
-minimal_mistakes_skin: "contrast"
+minimal_mistakes_skin: "neon"
 search: true
 
 # Build settings
