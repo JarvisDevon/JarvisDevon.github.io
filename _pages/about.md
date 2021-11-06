@@ -10,13 +10,11 @@ My non-academic interests revolve around music (despite a distinct lack of rhyth
 *add cv*
 
 ## Favourite Textbooks
-{% include gallery id="gallery" layout="half" caption="My three favourite textbooks."%}
-
-<figure class="half">
+<figure class="third">
   <a href="{{ site.baseurl }}/assets/images/jaynes.jpeg"><img src="{{ site.baseurl }}/assets/images/jaynes.jpeg"></a>
   <a href="{{ site.baseurl }}/assets/images/murphy.jpg"><img src="{{ site.baseurl }}/assets/images/murphy.jpg"></a>
   <a href="{{ site.baseurl }}/assets/images/deisenroth.jpeg"><img src="{{ site.baseurl }}/assets/images/deisenroth.jpeg"></a>
-  <figcaption>Just like water.</figcaption>
+  <figcaption>My three favourite textbooks.</figcaption>
 </figure>
 
 ## Favourite Books
