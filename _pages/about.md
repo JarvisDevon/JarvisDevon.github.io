@@ -4,14 +4,11 @@ title: "About"
 ---
 
 # About Me
-<img style="float:right;" src="me.jpg" alt="drawing" width="300"/>
 I obtained my undergraduate degree in Computer Science and Economics, as welll as Honours and Masters in Computer Science, all from the University of the Witwatersrand. Further to this I am interested in Neuroscience and Psychology, and read about these fields as much as possible.
 
 My non-academic interests revolve around music (despite a distinct lack of rhythm), movies, sports and cat pictures.
 
 *add cv*
-
-[Linkedin](https://www.linkedin.com/in/devon-jarvis-6b059a139/){: .btn}
 
 # Research Interests
 My prior research revolves primarily around the generalization of artificial neural networks. My most recent work looked at the ability of linear neural networks to systematically generalize. We investigated the impact of dataset structure, architecture and learning regime on this ability and found conditions when systematic generalization could occur.
@@ -49,7 +46,7 @@ For my Masters work I looked to create selective plasticity regularizers which w
 * 1Day Africa: [Mentorship Campaign Launch](https://www.youtube.com/watch?v=8W_T7bqvkBM "Mentorship")
 
 # Favourite Textbooks
-<img src="jaynes.jpeg" alt="drawing" height="265"/> <img src="murphy.jpg" alt="drawing" height="265"/> <img src="deisenroth.jpeg" alt="drawing" height="265"/>
+<img src="assets/images/jaynes.jpeg" alt="drawing" height="265"/> <img src="assets/images/murphy.jpg" alt="drawing" height="265"/> <img src="assets/images/deisenroth.jpeg" alt="drawing" height="265"/>
 
 # Favourite Books
-<img src="aurelius.jpeg" alt="drawing" height="300"/> <img src="crocker.jpeg" alt="drawing" height="300"/> <img src="kahneman.jpeg" alt="drawing" height="300"/> 
+<img src="assets/images/aurelius.jpeg" alt="drawing" height="300"/> <img src="assets/images/crocker.jpeg" alt="drawing" height="300"/> <img src="assets/images/kahneman.jpeg" alt="drawing" height="300"/> 
