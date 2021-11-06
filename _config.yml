@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Devon Jarvis"
   avatar : "/assets/images/devon.jpg"
-  bio    : "I obtained my undergraduate degree in Computer Science and Economics, as welll as Honours and Masters in Computer Science, all from the University of the Witwatersrand. Further to this I am interested in Neuroscience and Psychology, and read about these fields as much as possible."
+  bio    : "Machine learning researcher and global health advocate."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
