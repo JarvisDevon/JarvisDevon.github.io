@@ -22,5 +22,5 @@ My non-academic interests revolve around music (despite a distinct lack of rhyth
   <a href="{{ site.baseurl }}/assets/images/aurelius.jpeg"><img src="{{ site.baseurl }}/assets/images/aurelius.jpeg"></a>
   <a href="{{ site.baseurl }}/assets/images/crocker.jpeg"><img src="{{ site.baseurl }}/assets/images/crocker.jpeg"></a>
   <a href="{{ site.baseurl }}/assets/images/kahneman.jpeg"><img src="{{ site.baseurl }}/assets/images/kahneman.jpeg"></a>
-  <figcaption>My three favourite textbooks.</figcaption>
+  <figcaption>My three favourite books.</figcaption>
 </figure>
