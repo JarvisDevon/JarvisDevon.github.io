@@ -12,7 +12,10 @@ My non-academic interests revolve around music (despite a distinct lack of rhyth
   <a href="{{ site.baseurl }}/assets/images/jaynes.jpeg"><img src="{{ site.baseurl }}/assets/images/jaynes.jpeg"></a>
   <a href="{{ site.baseurl }}/assets/images/murphy.jpg"><img src="{{ site.baseurl }}/assets/images/murphy.jpg"></a>
   <a href="{{ site.baseurl }}/assets/images/deisenroth.jpeg"><img src="{{ site.baseurl }}/assets/images/deisenroth.jpeg"></a>
-  <figcaption>My three favourite textbooks. From left to right: Probability Theory. The Logic of Science by Edwin T. Jaynes. Machine Learning. A Probabilistic Perspective by Kevin P. Murphy. Mathematics for Machine Learning by Marc P. Deisenroth, A. Aldo Faisal and Cheng Soon Ong.</figcaption>
+  <figcaption>My three favourite textbooks. From left to right:   
+ Probability Theory. The Logic of Science by Edwin T. Jaynes.   
+ Machine Learning. A Probabilistic Perspective by Kevin P. Murphy.   
+ Mathematics for Machine Learning by Marc P. Deisenroth, A. Aldo Faisal and Cheng Soon Ong.</figcaption>
 </figure>
 
 ## Favourite Books
@@ -20,5 +23,8 @@ My non-academic interests revolve around music (despite a distinct lack of rhyth
   <a href="{{ site.baseurl }}/assets/images/aurelius.jpeg"><img src="{{ site.baseurl }}/assets/images/aurelius.jpeg"></a>
   <a href="{{ site.baseurl }}/assets/images/crocker.jpeg"><img src="{{ site.baseurl }}/assets/images/crocker.jpeg"></a>
   <a href="{{ site.baseurl }}/assets/images/kahneman.jpeg"><img src="{{ site.baseurl }}/assets/images/kahneman.jpeg"></a>
-  <figcaption>My three favourite books. From left to right: Meditations by Marcus Aurelius. Finding Jack by Gareth Crocker. Thinking, Fast and Slow by Daniel Kahneman.</figcaption>
+  <figcaption>My three favourite books. From left to right:   
+ Meditations by Marcus Aurelius.   
+ Finding Jack by Gareth Crocker.   
+ Thinking, Fast and Slow by Daniel Kahneman.</figcaption>
 </figure>
