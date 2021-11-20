@@ -13,4 +13,3 @@ title: "Volunteer Work"
 # Talks and Panels
 * 1Day Africa: [Publishing in Africa](https://www.youtube.com/watch?v=L4MiEKemgcU "Publishing in Africa")
 * 1Day Africa: [Mentorship Campaign Launch](https://www.youtube.com/watch?v=8W_T7bqvkBM "Mentorship")
-* 1Day Africa: [Mentorship Campaign Launch](https://www.youtube.com/watch?v=8W_T7bqvkBM "Mentorship")
