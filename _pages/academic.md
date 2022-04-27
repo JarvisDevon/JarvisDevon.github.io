@@ -13,7 +13,7 @@ For my Masters work I looked to create selective plasticity regularizers which w
 * Master of Science (with Distinction) in Computer Science, 2020-2021
 
 ## Academic Writing
-* <a href="../jarvisdissertation.pdf">Masters Dissertation</a>
+* <a href="../jarvis_dissertation.pdf">Masters Dissertation</a>
 
 ## Academic Positions
 * Head Academic Tutor at the University of the Witwatersrand, 2020-2021. Courses:
